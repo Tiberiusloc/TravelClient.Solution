@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sCYG0l6cfH7t/vteLlIGYQQyTmbVAUEA5xQpJ6QMeRvFgcg8iqz/xdLyczRsvwVdEwqAYSm4MPrqDPMcbtLCmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PCAdmin\\Desktop\\TravelClient.Solution\\TravelClient\\TravelClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCAdmin\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\PCAdmin\\.nuget\\packages\\restsharp\\106.6.10\\restsharp.106.6.10.nupkg.sha512"
+  ],
+  "logs": []
+}
